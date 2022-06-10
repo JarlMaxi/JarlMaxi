@@ -12,4 +12,3 @@ Welcome to my GitHub! I'm currently going through the ropes of getting better at
 - 🖥️ I stream [on Twitch](twitch.com/jarlmaxi)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have half a colon
--->
