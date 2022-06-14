@@ -4,9 +4,9 @@ Welcome to my GitHub! I'm currently going through the ropes of getting better at
 
 - 💰 I work at an amazing company
 - ⌨️ I love to build mechanical keyboards and currently have 3
-  - 75%
-  - 65%
-  - 60% ortolinear
+  - 75% (Keychron Q1)
+  - 65% (BM60 KeyRepublic)
+  - 60% (Keebio Iris)
 - 🤔 I’m looking for help with what steps to take next in programming and GitHub in general
 - 🎵 I got a master of music degree
 - 🖥️ I stream [on Twitch](twitch.com/jarlmaxi)
